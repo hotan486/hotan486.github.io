@@ -21,6 +21,9 @@ h1, h2, h3, h4, h5, h6 {font-size: 13px; color:#222; font-weight: normal;}
 /* 테두리 초기화 */
 img, fieldset {border:0 none;}
 
+/* 버튼 초기화 */
+button {border: 0;}
+
 /* 폰트 스타일 초기화 */
 em {font-style: normal;}
 
