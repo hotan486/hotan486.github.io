@@ -274,9 +274,10 @@ addTodoListButton.addEventListener('click',()=>{
 let todoList1 = new todoList(root);
 let todoList2 = new todoList(root);
 let todoList3 = new todoList(root);
-
+let todoList4 = new todoList(root);
 
 
 todoList1.input.value = "asdasds";
+todoList1.addToDo();
 todoList1.addToDo();
 
